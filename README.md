@@ -29,3 +29,7 @@ This is a responsive landing page designed for a shopping app, built using HTML 
 1. Clone this repository:
    ```bash
    git clone https://github.com/simrandalal/Landing-Page.git
+
+2. Open the project folder
+
+3. Simply open index.html in your web browser
