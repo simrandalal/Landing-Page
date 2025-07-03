@@ -15,9 +15,9 @@ This is a responsive landing page designed for a shopping app, built using HTML 
 ## 📸 Screenshots
 
 ![Landing Page Screenshot 1](./assets/screenshot1.png)
-![Landing Page Screenshot 2](./assets/Screenshot2.png)
-![Landing Page Screenshot 3](./assets/Screenshot3.png)
-![Landing Page Screenshot 4](./assets/Screenshot4.png)
+![Landing Page Screenshot 2](./assets/screenshot2.png)
+![Landing Page Screenshot 3](./assets/screenshot3.png)
+![Landing Page Screenshot 4](./assets/screenshot4.png)
 
 ## 🛠️ Tech Stack
 
